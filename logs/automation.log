@@ -1,0 +1,149 @@
+08:33:36.900 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+08:33:37.190 [main] INFO  testCases.TC_001_Login_Test - Entering valid email address
+08:33:37.316 [main] INFO  testCases.TC_001_Login_Test - Entering valid password
+08:33:37.393 [main] INFO  testCases.TC_001_Login_Test - Click on Log In Button
+08:33:52.946 [main] INFO  testCases.TC_001_Login_Test - Clicking on Home page PIxis Logo
+08:33:53.971 [main] INFO  testCases.TC_001_Login_Test - Get title name of Pixis Home Page
+08:33:53.971 [main] INFO  testCases.TC_001_Login_Test - Validating expected title
+08:33:54.092 [main] INFO  testCases.TC_001_Login_Test - ***  Finish Tc_001_Login_Test   ***
+08:38:16.147 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+08:38:16.395 [main] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+08:38:16.584 [main] INFO  testCases.TC_001_Login_Test - Entered valid password
+08:38:16.661 [main] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+08:38:26.429 [main] INFO  testCases.TC_001_Login_Test - Clicked on Home page PIxis Logo
+08:38:26.999 [main] INFO  testCases.TC_001_Login_Test - Get title name of Pixis Home Page
+08:38:26.999 [main] INFO  testCases.TC_001_Login_Test - Validated expected title
+08:38:27.003 [main] INFO  testCases.TC_001_Login_Test - ***  Finish Tc_001_Login_Test   ***
+12:05:28.051 [main] INFO  testCases.TC_005_Login_Test - ***  Starting Tc_005_Login_Test   ***
+12:05:28.099 [main] INFO  testCases.TC_005_Login_Test - Clicked on Forgot Password
+12:05:28.210 [main] INFO  testCases.TC_005_Login_Test - Get text from Reset Password locator
+12:05:28.293 [main] INFO  testCases.TC_005_Login_Test - Validated the test
+12:07:13.291 [TestNG-test=Test-2] INFO  testCases.TC_002_Login_Test - ***  Starting Tc_002_Login_Test   ***
+12:07:13.799 [TestNG-test=Test-2] INFO  testCases.TC_002_Login_Test - Entered the invalid password
+12:07:13.839 [TestNG-test=Test-1] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+12:07:14.054 [TestNG-test=Test-2] INFO  testCases.TC_002_Login_Test - Entering the valid password
+12:07:14.167 [TestNG-test=Test-1] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+12:07:14.335 [TestNG-test=Test-2] INFO  testCases.TC_002_Login_Test - Clicked on loggin button
+12:07:14.349 [TestNG-test=Test-2] INFO  testCases.TC_002_Login_Test - Get title of login page
+12:07:14.349 [TestNG-test=Test-2] INFO  testCases.TC_002_Login_Test - Validated the title
+12:07:14.353 [TestNG-test=Test-2] INFO  testCases.TC_002_Login_Test - ***  Finished Tc_002_Login_Test   ***
+12:07:14.543 [TestNG-test=Test-1] INFO  testCases.TC_001_Login_Test - Entered valid password
+12:07:14.659 [TestNG-test=Test-1] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+12:07:28.437 [TestNG-test=Test-2] INFO  testCases.TC_003_Login_Test - ***  Starting Tc_003_Login_Test   ***
+12:07:28.438 [TestNG-test=Test-2] INFO  testCases.TC_003_Login_Test - Entered valid password
+12:07:28.772 [TestNG-test=Test-2] INFO  testCases.TC_003_Login_Test - Entered invalid password
+12:07:29.005 [TestNG-test=Test-2] INFO  testCases.TC_003_Login_Test - Clicked on Login Button
+12:07:29.115 [TestNG-test=Test-2] INFO  testCases.TC_003_Login_Test - Get Login page title
+12:07:29.151 [TestNG-test=Test-2] INFO  testCases.TC_003_Login_Test - Validated title of Login Page
+12:07:29.151 [TestNG-test=Test-2] INFO  testCases.TC_003_Login_Test - ***  Finished Tc_002_Login_Test   ***
+12:07:30.404 [TestNG-test=Test-1] INFO  testCases.TC_001_Login_Test - Clicked on Home page PIxis Logo
+12:07:31.259 [TestNG-test=Test-1] INFO  testCases.TC_001_Login_Test - Get title name of Pixis Home Page
+12:07:31.259 [TestNG-test=Test-1] INFO  testCases.TC_001_Login_Test - Validated expected title
+12:07:31.259 [TestNG-test=Test-1] INFO  testCases.TC_001_Login_Test - ***  Finish Tc_001_Login_Test   ***
+12:07:39.194 [TestNG-test=Test-2] INFO  testCases.TC_004_Login_Test - ***  Starting Tc_004_Login_Test   ***
+12:07:39.196 [TestNG-test=Test-2] INFO  testCases.TC_004_Login_Test - Entered invalid Email Id
+12:07:39.447 [TestNG-test=Test-2] INFO  testCases.TC_004_Login_Test - Enterted invalid password
+12:07:39.576 [TestNG-test=Test-2] INFO  testCases.TC_004_Login_Test - Clicking on loggin button
+12:07:39.652 [TestNG-test=Test-2] INFO  testCases.TC_004_Login_Test - Getting title of Log in page
+12:07:39.674 [TestNG-test=Test-2] INFO  testCases.TC_004_Login_Test - Validated title
+12:07:39.675 [TestNG-test=Test-2] INFO  testCases.TC_004_Login_Test - ***  Finish Tc_004_Login_Test   ***
+15:33:00.809 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+15:33:01.897 [main] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+15:33:02.154 [main] INFO  testCases.TC_001_Login_Test - Entered valid password
+15:33:02.333 [main] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+15:33:13.488 [main] INFO  testCases.TC_001_Login_Test - Clicked on Home page PIxis Logo
+15:33:13.847 [main] INFO  testCases.TC_001_Login_Test - Get title name of Pixis Home Page
+15:33:13.847 [main] INFO  testCases.TC_001_Login_Test - Validated expected title
+15:33:14.248 [main] INFO  testCases.TC_001_Login_Test - ***  Finish Tc_001_Login_Test   ***
+15:55:24.018 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+17:39:51.658 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+17:39:51.857 [main] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+17:39:51.959 [main] INFO  testCases.TC_001_Login_Test - Entered valid password
+17:39:52.240 [main] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+17:40:01.597 [main] INFO  testCases.TC_001_Login_Test - Clicked on Home page PIxis Logo
+17:40:02.160 [main] INFO  testCases.TC_001_Login_Test - Get title name of Pixis Home Page
+17:40:02.160 [main] INFO  testCases.TC_001_Login_Test - Validated expected title
+17:40:02.163 [main] INFO  testCases.TC_001_Login_Test - ***  Finish Tc_001_Login_Test   ***
+17:40:13.647 [main] INFO  testCases.TC_002_Login_Test - ***  Starting Tc_002_Login_Test   ***
+17:40:13.830 [main] INFO  testCases.TC_002_Login_Test - Entered the invalid password
+17:40:14.002 [main] INFO  testCases.TC_002_Login_Test - Entering the valid password
+17:40:14.084 [main] INFO  testCases.TC_002_Login_Test - Clicked on loggin button
+17:40:14.097 [main] INFO  testCases.TC_002_Login_Test - Get title of login page
+17:40:14.097 [main] INFO  testCases.TC_002_Login_Test - Validated the title
+17:40:14.097 [main] INFO  testCases.TC_002_Login_Test - ***  Finished Tc_002_Login_Test   ***
+17:40:28.047 [main] INFO  testCases.TC_003_Login_Test - ***  Starting Tc_003_Login_Test   ***
+17:40:28.048 [main] INFO  testCases.TC_003_Login_Test - Entered valid password
+17:40:28.238 [main] INFO  testCases.TC_003_Login_Test - Entered invalid password
+17:40:28.454 [main] INFO  testCases.TC_003_Login_Test - Clicked on Login Button
+17:40:28.558 [main] INFO  testCases.TC_003_Login_Test - Get Login page title
+17:40:28.609 [main] INFO  testCases.TC_003_Login_Test - Validated title of Login Page
+17:40:28.609 [main] INFO  testCases.TC_003_Login_Test - ***  Finished Tc_002_Login_Test   ***
+17:40:43.645 [main] INFO  testCases.TC_004_Login_Test - ***  Starting Tc_004_Login_Test   ***
+17:40:43.647 [main] INFO  testCases.TC_004_Login_Test - Entered invalid Email Id
+17:40:43.907 [main] INFO  testCases.TC_004_Login_Test - Enterted invalid password
+17:40:44.040 [main] INFO  testCases.TC_004_Login_Test - Clicking on loggin button
+17:40:44.122 [main] INFO  testCases.TC_004_Login_Test - Getting title of Log in page
+17:40:44.134 [main] INFO  testCases.TC_004_Login_Test - Validated title
+17:40:44.134 [main] INFO  testCases.TC_004_Login_Test - ***  Finish Tc_004_Login_Test   ***
+17:46:08.513 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+17:46:08.789 [main] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+17:46:08.929 [main] INFO  testCases.TC_001_Login_Test - Entered valid password
+17:46:09.023 [main] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+17:51:07.503 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+17:51:07.760 [main] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+17:51:07.890 [main] INFO  testCases.TC_001_Login_Test - Entered valid password
+17:51:07.965 [main] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+17:51:38.012 [main] ERROR testCases.TC_001_Login_Test - test failed
+17:54:50.390 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+17:54:50.690 [main] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+17:54:50.960 [main] INFO  testCases.TC_001_Login_Test - Entered valid password
+17:54:51.068 [main] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+17:55:00.345 [main] INFO  testCases.TC_001_Login_Test - Clicked on Home page PIxis Logo
+17:55:01.134 [main] INFO  testCases.TC_001_Login_Test - Get title name of Pixis Home Page
+17:55:01.135 [main] INFO  testCases.TC_001_Login_Test - Validated expected title
+18:24:55.836 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+18:24:56.216 [main] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+18:24:56.389 [main] INFO  testCases.TC_001_Login_Test - Entered valid password
+18:24:56.473 [main] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+18:25:05.548 [main] INFO  testCases.TC_001_Login_Test - Clicked on Home page PIxis Logo
+18:25:06.945 [main] INFO  testCases.TC_001_Login_Test - Get title name of Pixis Home Page
+18:25:06.945 [main] INFO  testCases.TC_001_Login_Test - Validated expected title
+18:35:37.851 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+18:35:38.143 [main] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+18:35:38.268 [main] INFO  testCases.TC_001_Login_Test - Entered valid password
+18:35:38.349 [main] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+18:35:46.947 [main] INFO  testCases.TC_001_Login_Test - Clicked on Home page PIxis Logo
+18:35:47.977 [main] INFO  testCases.TC_001_Login_Test - Get title name of Pixis Home Page
+18:35:47.977 [main] INFO  testCases.TC_001_Login_Test - Validated expected title
+18:37:07.027 [main] INFO  testCases.TC_001_Login_Test - ***  Starting Tc_001_Login_Test   ***
+18:37:07.343 [main] INFO  testCases.TC_001_Login_Test - Enteed valid email address
+18:37:07.471 [main] INFO  testCases.TC_001_Login_Test - Entered valid password
+18:37:07.557 [main] INFO  testCases.TC_001_Login_Test - Clicked on Log In Button
+18:37:15.857 [main] INFO  testCases.TC_001_Login_Test - Clicked on Home page PIxis Logo
+18:37:16.450 [main] INFO  testCases.TC_001_Login_Test - Get title name of Pixis Home Page
+18:37:16.450 [main] INFO  testCases.TC_001_Login_Test - Validated expected title
+18:37:28.710 [main] INFO  testCases.TC_002_Login_Test - ***  Starting Tc_002_Login_Test   ***
+18:37:28.997 [main] INFO  testCases.TC_002_Login_Test - Entered the invalid password
+18:37:29.122 [main] INFO  testCases.TC_002_Login_Test - Entering the valid password
+18:37:29.203 [main] INFO  testCases.TC_002_Login_Test - Clicked on loggin button
+18:37:29.218 [main] INFO  testCases.TC_002_Login_Test - Get title of login page
+18:37:29.219 [main] INFO  testCases.TC_002_Login_Test - Validated the title
+18:37:29.219 [main] INFO  testCases.TC_002_Login_Test - ***  Finished Tc_002_Login_Test   ***
+18:37:38.450 [main] INFO  testCases.TC_003_Login_Test - ***  Starting Tc_003_Login_Test   ***
+18:37:38.451 [main] INFO  testCases.TC_003_Login_Test - Entered valid password
+18:37:38.621 [main] INFO  testCases.TC_003_Login_Test - Entered invalid password
+18:37:38.874 [main] INFO  testCases.TC_003_Login_Test - Clicked on Login Button
+18:37:39.002 [main] INFO  testCases.TC_003_Login_Test - Get Login page title
+18:37:39.035 [main] INFO  testCases.TC_003_Login_Test - Validated title of Login Page
+18:37:39.035 [main] INFO  testCases.TC_003_Login_Test - ***  Finished Tc_002_Login_Test   ***
+18:37:49.573 [main] INFO  testCases.TC_004_Login_Test - ***  Starting Tc_004_Login_Test   ***
+18:37:49.577 [main] INFO  testCases.TC_004_Login_Test - Entered invalid Email Id
+18:37:49.771 [main] INFO  testCases.TC_004_Login_Test - Enterted invalid password
+18:37:49.940 [main] INFO  testCases.TC_004_Login_Test - Clicking on loggin button
+18:37:50.018 [main] INFO  testCases.TC_004_Login_Test - Getting title of Log in page
+18:37:50.033 [main] INFO  testCases.TC_004_Login_Test - Validated title
+18:37:50.034 [main] INFO  testCases.TC_004_Login_Test - ***  Finish Tc_004_Login_Test   ***
+18:37:58.877 [main] INFO  testCases.TC_005_Login_Test - ***  Starting Tc_005_Login_Test   ***
+18:37:58.878 [main] INFO  testCases.TC_005_Login_Test - Clicked on Forgot Password
+18:37:58.968 [main] INFO  testCases.TC_005_Login_Test - Get text from Reset Password locator
+18:37:59.019 [main] INFO  testCases.TC_005_Login_Test - Validated the test
