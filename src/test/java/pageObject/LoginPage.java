@@ -30,7 +30,7 @@ public class LoginPage extends BasePage
    {
 	   loginText.sendKeys(email);
    }
-   
+    
    public void setPassword(String password)
    {
      passwordText.sendKeys(password);

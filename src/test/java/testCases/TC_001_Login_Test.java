@@ -31,13 +31,6 @@ public class TC_001_Login_Test extends BaseClass
 		logger.info("Clicked on Home page PIxis Logo");
         String title=lp.getTitle();
 		logger.info("Get title name of Pixis Home Page");
-
-//		System.out.println(title);
-
-//		WebDriverWait mywaits= new WebDriverWait(driver,Duration.ofSeconds(20));
-//		mywaits.until(ExpectedConditions.elementToBeClickable(By.id("btn-login")));
-//		String title=lp.getTitle();
-//		System.out.println(title);
 		logger.info("Validated expected title");
 		Assert.assertEquals(title, "Pixis AIi","Not getting expected title");
 		}
@@ -48,9 +41,6 @@ public class TC_001_Login_Test extends BaseClass
 		}
 		
 		logger.info("***  Finish Tc_001_Login_Test   ***");
-
-		
-		
-    }
+   }
 
 }
